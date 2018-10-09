@@ -30,6 +30,10 @@
 - [JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
+### Database
+
+- Looking for a **Database Design**
+
 ### React
 
 - React in Action
