@@ -29,3 +29,14 @@
 - [JavaScript for Kids](https://nostarch.com/javascriptforkids)
 - [JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
 - [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
+### React
+
+- React in Action
+  - Chapter 01
+  - Chapter 02
+
+### Express.JS
+
+- Express in Action
+  - Chapter 01, 02, 03?
